@@ -1,11 +1,9 @@
 \\vrisi01\users$\vkumaar\WINDOWS\Desktop\Selenium\Selenium_Test\Selenium_Test\bin\Debug\Selenium_Test.dll
 \\vrisi01\users$\vkumaar\WINDOWS\Desktop\Selenium\Selenium_Test\Selenium_Test\bin\Debug\Selenium_Test.pdb
-\\vrisi01\users$\vkumaar\WINDOWS\Desktop\Selenium\Selenium_Test\Selenium_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 \\vrisi01\users$\vkumaar\WINDOWS\Desktop\Selenium\Selenium_Test\Selenium_Test\bin\Debug\WebDriver.dll
 \\vrisi01\users$\vkumaar\WINDOWS\Desktop\Selenium\Selenium_Test\Selenium_Test\bin\Debug\WebDriver.Support.dll
 \\vrisi01\users$\vkumaar\WINDOWS\Desktop\Selenium\Selenium_Test\Selenium_Test\bin\Debug\WebDriver.xml
 \\vrisi01\users$\vkumaar\WINDOWS\Desktop\Selenium\Selenium_Test\Selenium_Test\bin\Debug\WebDriver.Support.xml
-\\vrisi01\users$\vkumaar\WINDOWS\Desktop\Selenium\Selenium_Test\Selenium_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 \\vrisi01\users$\vkumaar\WINDOWS\Desktop\Selenium\Selenium_Test\Selenium_Test\obj\Debug\Selenium_Test.csprojResolveAssemblyReference.cache
 \\vrisi01\users$\vkumaar\WINDOWS\Desktop\Selenium\Selenium_Test\Selenium_Test\obj\Debug\Selenium_Test.dll
 \\vrisi01\users$\vkumaar\WINDOWS\Desktop\Selenium\Selenium_Test\Selenium_Test\obj\Debug\Selenium_Test.pdb
